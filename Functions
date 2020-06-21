@@ -1,7 +1,7 @@
 # this will be used to create a function to create accept a list then find out if an element is in the list
 
 def isitin():
-    ### Gets list of integers or string containing "-" to terminate. Prompts for what you are looking for and lets you know if its found ###
+    ###Gets list of integers or string containing "-" to terminate. Prompts for what you are looking for and lets you know if its found.###
     count = 1
     what = 0
     long = []
